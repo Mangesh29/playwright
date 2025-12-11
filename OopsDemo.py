@@ -5,6 +5,11 @@
 
 
 
+
+# self keyword is mandatory for calling variables name into methods
+#insatnace and class variables have whole different purpose
+#constructor name should  be __init__  it is a special method
+#new keyword is not used in python to create object
 class Calculator:
     num =100   #class variables
      # default constructor
